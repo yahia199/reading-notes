@@ -8,7 +8,9 @@
 
 - [Terminal](./Terminal.md)
 
--[Unit Test](./UnitTesting.md)
+- [Exception](./Exception.md)
+
+- [Unit Test](./UnitTesting.md)
 
 
 
