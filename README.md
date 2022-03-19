@@ -5,6 +5,8 @@
 ---
 - [C#-History](./C-sharp.md)
 
+- [Mindsets](./Mindsets.md)
+
 - [Terminal](./Terminal.md)
 
 - [Exception](./Exception.md)
