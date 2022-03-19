@@ -3,8 +3,7 @@
 ---
 ##My courses:
 ---
-- C#  [C# history](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
-- [SQL](./SQL.md)
+- [C#-History](./C-sharp.md)
 
 - [Terminal](./Terminal.md)
 
