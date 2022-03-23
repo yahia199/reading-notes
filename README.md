@@ -17,6 +17,8 @@
 
 - [Classes & Objects](./Classes-Objects.md)
 
+- [Linked Lists](./linked-lists.md) 
+
 
 
 
