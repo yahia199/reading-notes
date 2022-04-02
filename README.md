@@ -23,6 +23,8 @@
 
 - [Interfaces](./Interfaces.md)
 
+- [Collections & Enums](./Collections%20%26%20Enums.md)
+
 
 
 
