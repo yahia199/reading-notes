@@ -25,6 +25,8 @@
 
 - [Collections & Enums](./Collections%20%26%20Enums.md)
 
+-[LINQ](./LINQ.md)
+
 
 
 
