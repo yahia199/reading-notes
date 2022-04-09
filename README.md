@@ -25,7 +25,9 @@
 
 - [Collections & Enums](./Collections%20%26%20Enums.md)
 
--[LINQ](./LINQ.md)
+- [LINQ](./LINQ.md)
+
+- [Stack and Queue](./Stack%20and%20Queue.md)
 
 
 
