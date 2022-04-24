@@ -39,6 +39,8 @@
 
 - [Routing and Navigation Properties](./Routing%20and%20Navigation%20Properties.md)
 
+- [Data Transfer Objects](./Data%20Transfer%20Objects.md)
+
 
 
 
