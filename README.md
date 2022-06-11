@@ -57,6 +57,8 @@
 
 - [Azure-Blobs](./Azure-Blobs.md)
 
+- [Razor Pages](./Razor%20Pages.md)
+
 
 
 
