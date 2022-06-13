@@ -59,6 +59,8 @@
 
 - [Razor Pages](./Razor%20Pages.md)
 
+- [View components](./View%20components.md)
+
 
 
 
