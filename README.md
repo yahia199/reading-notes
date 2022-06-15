@@ -61,6 +61,7 @@
 
 - [View components](./View%20components.md)
 
+- [Payment Processing](./Payment%20Processing.md)
 
 
 
